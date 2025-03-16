@@ -1,0 +1,28 @@
+G:\ITI .Net\C#\Examination_System\Examination_System\bin\Debug\net8.0\Examination_System.exe
+G:\ITI .Net\C#\Examination_System\Examination_System\bin\Debug\net8.0\Examination_System.deps.json
+G:\ITI .Net\C#\Examination_System\Examination_System\bin\Debug\net8.0\Examination_System.runtimeconfig.json
+G:\ITI .Net\C#\Examination_System\Examination_System\bin\Debug\net8.0\Examination_System.dll
+G:\ITI .Net\C#\Examination_System\Examination_System\bin\Debug\net8.0\Examination_System.pdb
+G:\ITI .Net\C#\Examination_System\Examination_System\obj\Debug\net8.0\Examination_System.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI .Net\C#\Examination_System\Examination_System\obj\Debug\net8.0\Examination_System.AssemblyInfoInputs.cache
+G:\ITI .Net\C#\Examination_System\Examination_System\obj\Debug\net8.0\Examination_System.AssemblyInfo.cs
+G:\ITI .Net\C#\Examination_System\Examination_System\obj\Debug\net8.0\Examination_System.csproj.CoreCompileInputs.cache
+G:\ITI .Net\C#\Examination_System\Examination_System\obj\Debug\net8.0\Examination_System.dll
+G:\ITI .Net\C#\Examination_System\Examination_System\obj\Debug\net8.0\refint\Examination_System.dll
+G:\ITI .Net\C#\Examination_System\Examination_System\obj\Debug\net8.0\Examination_System.pdb
+G:\ITI .Net\C#\Examination_System\Examination_System\obj\Debug\net8.0\Examination_System.genruntimeconfig.cache
+G:\ITI .Net\C#\Examination_System\Examination_System\obj\Debug\net8.0\ref\Examination_System.dll
+D:\iti\iti matirial\C# MVC and Threading\examination sys from omar diaaa\Examination_System\Examination_System\bin\Debug\net8.0\Examination_System.exe
+D:\iti\iti matirial\C# MVC and Threading\examination sys from omar diaaa\Examination_System\Examination_System\bin\Debug\net8.0\Examination_System.deps.json
+D:\iti\iti matirial\C# MVC and Threading\examination sys from omar diaaa\Examination_System\Examination_System\bin\Debug\net8.0\Examination_System.runtimeconfig.json
+D:\iti\iti matirial\C# MVC and Threading\examination sys from omar diaaa\Examination_System\Examination_System\bin\Debug\net8.0\Examination_System.dll
+D:\iti\iti matirial\C# MVC and Threading\examination sys from omar diaaa\Examination_System\Examination_System\bin\Debug\net8.0\Examination_System.pdb
+D:\iti\iti matirial\C# MVC and Threading\examination sys from omar diaaa\Examination_System\Examination_System\obj\Debug\net8.0\Examination_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\iti matirial\C# MVC and Threading\examination sys from omar diaaa\Examination_System\Examination_System\obj\Debug\net8.0\Examination_System.AssemblyInfoInputs.cache
+D:\iti\iti matirial\C# MVC and Threading\examination sys from omar diaaa\Examination_System\Examination_System\obj\Debug\net8.0\Examination_System.AssemblyInfo.cs
+D:\iti\iti matirial\C# MVC and Threading\examination sys from omar diaaa\Examination_System\Examination_System\obj\Debug\net8.0\Examination_System.csproj.CoreCompileInputs.cache
+D:\iti\iti matirial\C# MVC and Threading\examination sys from omar diaaa\Examination_System\Examination_System\obj\Debug\net8.0\Examination_System.dll
+D:\iti\iti matirial\C# MVC and Threading\examination sys from omar diaaa\Examination_System\Examination_System\obj\Debug\net8.0\refint\Examination_System.dll
+D:\iti\iti matirial\C# MVC and Threading\examination sys from omar diaaa\Examination_System\Examination_System\obj\Debug\net8.0\Examination_System.pdb
+D:\iti\iti matirial\C# MVC and Threading\examination sys from omar diaaa\Examination_System\Examination_System\obj\Debug\net8.0\Examination_System.genruntimeconfig.cache
+D:\iti\iti matirial\C# MVC and Threading\examination sys from omar diaaa\Examination_System\Examination_System\obj\Debug\net8.0\ref\Examination_System.dll
